@@ -20,6 +20,7 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
+
 azurewebapp {
 	subscription = 'f72d90f6-201c-45e5-ab23-e770f1722e96'
 	resourceGroup = 'day5prep1'
